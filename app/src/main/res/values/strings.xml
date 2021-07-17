@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ChooseMyPizza</string>
+    <string name="titulo_escolha">Choose my Pizza!!</string>
+    <string name="sabor_escolhido">Sabor</string>
 </resources>
